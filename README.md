@@ -16,13 +16,15 @@ Want to send some Sui to multiple wallets easily? Just follow these simple steps
 4. **Who Gets the Sui?**
    - Open the file `src/config.ts`.
    - Here, you'll find an object called `airdrop`. This is where you put the wallet addresses of the people you want to send Sui to and how much they should get.
+
 `
 {
     to: "WALLET_ADDRESS",
-    amount: SUI_AMOUNT,
+    amount: SUI_AMOUNT
   },
   `
-5. **Ready to Airdrop:** Run by using `yarn airdrop` in the terminal.
+
+5. **Run Airdrop:** Run the script by using `yarn airdrop` in the terminal.
 
 
 **Note:** Make sure you have enough Sui in your wallet. You need a little extra for transaction fees (gas) and about 1 Sui for every 100 wallets you're sending to, plus the amount you're sending.
