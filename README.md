@@ -1,4 +1,4 @@
-#:pirate_flag: AHOY AIRDROP :pirate_flag:
+#AHOY AIRDROP
 ## Project Setup Instructions
 
 Want to send some Sui to multiple wallets easily? Just follow these simple steps:
@@ -18,6 +18,7 @@ Want to send some Sui to multiple wallets easily? Just follow these simple steps
    - Here, you'll find an object called `airdrop`. This is where you put the wallet addresses of the people you want to send Sui to and how much they should get.
 
 5. **Ready to Airdrop:** Run by using `yarn airdrop` in the terminal.
+
 
 **Note:** Make sure you have enough Sui in your wallet. You need a little extra for transaction fees (gas) and about 1 Sui for every 100 wallets you're sending to, plus the amount you're sending.
 
