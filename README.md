@@ -1,7 +1,5 @@
 # AHOY AIRDROP
 **Project Setup Instructions**
-![Chest](/src/chest.jpeg)
-
 
 Want to send some Sui to multiple wallets easily? Just follow these simple steps:
 
@@ -34,3 +32,4 @@ Want to send some Sui to multiple wallets easily? Just follow these simple steps
 ---
 
 After you've completed these steps, you should be able to run the project. If you encounter any issues, please check if you've followed all the steps correctly.
+![Chest](/src/chest.jpeg)
