@@ -1,5 +1,5 @@
 # AHOY AIRDROP
-## Project Setup Instructions
+**Project Setup Instructions**
 
 Want to send some Sui to multiple wallets easily? Just follow these simple steps:
 
