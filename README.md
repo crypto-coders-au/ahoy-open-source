@@ -30,8 +30,6 @@ Want to send some Sui to multiple wallets easily? Just follow these simple steps
 
 **Note:** Make sure you have enough Sui in your wallet. You need a little extra for transaction fees (gas) and about 1 Sui for every 100 wallets you're sending to, plus the amount you're sending.
 
----
-
 # AHOY SNAPSHOT
 
 After you've completed these steps, you should be able to run the project. If you encounter any issues, please check if you've followed all the steps correctly.
