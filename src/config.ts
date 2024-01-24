@@ -1,5 +1,6 @@
 export const MIST_CONVERSION = 1000000000;
 
+//AIRDROP
 // List of Sui wallet addresses and how much Sui to send them.
 // 'to' is the wallet address to send Sui to.
 // 'amount' is how much Sui to send.
@@ -22,6 +23,7 @@ export const airdrop = [
   },
 ];
 
+//SNAPSHOT
 export const snapshot = {
   collection_slug:
     "0x6b5322e6f7f09e2469390b999ee8474e7440e4bd738f8917357842fca5cdb61b",
