@@ -30,9 +30,27 @@ Want to send some Sui to multiple wallets easily? Just follow these simple steps
 
 **Note:** Make sure you have enough Sui in your wallet. You need a little extra for transaction fees (gas) and about 1 Sui for every 100 wallets you're sending to, plus the amount you're sending.
 
+After you've completed these steps, you should be able to run the project. If you encounter any issues, please check if you've followed all the steps correctly.
+
 # AHOY SNAPSHOT
 
-After you've completed these steps, you should be able to run the project. If you encounter any issues, please check if you've followed all the steps correctly.
+1. **Setup Indexer**
+- get an API key: https://form.asana.com/?k=ClRNDmKRUMlBEYDWbxR_Mw&d=1203273737616767
+https://indexer.notion.site/Indexer-API-Documentation-0af2757342464e198eb5d7d3f2696d4f 
+
+
+2. **Update .env**
+- update .env with your api user and api key
+
+3. **Find collection ID**
+- Search the collection you want to snapshot and get the collection ID and size of the collection
+https://www.indexer.xyz/sui/collection/0x6b5322e6f7f09e2469390b999ee8474e7440e4bd738f8917357842fca5cdb61b?tab=items&bottomTab=trades
+
+4. **Update config.ts**
+- input values into config.ts, replacing the name, collection size and collection slug
+
+5. **Run script**
+- yarn snapshot
 
 <div style="text-align: center;">
     <img src="/src/assets/chest.jpeg" width="50%" height="auto">
