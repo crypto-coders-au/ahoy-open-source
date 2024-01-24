@@ -21,3 +21,10 @@ export const airdrop = [
     amount: 0.0000000091,
   },
 ];
+
+export const snapshot = {
+  collection_slug:
+    "0x6b5322e6f7f09e2469390b999ee8474e7440e4bd738f8917357842fca5cdb61b",
+  collection_name: "Ahoy",
+  collection_size: 3000,
+};
