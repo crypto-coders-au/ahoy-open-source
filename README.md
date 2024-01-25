@@ -2,7 +2,7 @@
 
 **Project Setup Instructions**
 
-Test updating the readme first try
+Test updating the readme third try 
 Want to send some Sui to multiple wallets easily? Just follow these simple steps:
 
 1. **Get Started:** First, run `yarn` in your terminal. This will set up everything you need for the project.
